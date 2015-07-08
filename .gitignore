@@ -1,0 +1,9 @@
+packages/*
+droid/bin/*
+droid/obj/*
+ios/bin/*
+ios/obj/*
+gpspush/bin/*
+gpspush/obj/*
+gpspush.winphone/bin/*
+gpspush.winphone/obj/*
